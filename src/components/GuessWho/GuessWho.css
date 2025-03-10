@@ -30,14 +30,11 @@
   }
   
   .card.disabled {
-    opacity: 0.;
     border: 1px solid red;
   }
 
   .card.disabled img {
-
     filter: grayscale(100%);
-
   }
 
   .card.disabled p{
