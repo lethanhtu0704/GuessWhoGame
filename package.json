@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://lethanhtu0704.github.io/",
+  "homepage":"https://lethanhtu0704.github.io/GuessWhoGame/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
