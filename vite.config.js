@@ -4,6 +4,6 @@ import { ghPages } from 'vite-plugin-gh-pages';
 // https://vitejs.dev/config/
 export default defineConfig({
   // plugins: [react()],
-  plugins: [ghPages()],
+  plugins: [ghPages(),react()],
   base:"/GuessWhoGame"
 })
