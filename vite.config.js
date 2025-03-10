@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import { ghPages } from 'vite-plugin-gh-pages';
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()],
+  // plugins: [react()],
   plugins: [ghPages()],
   base:"GuessWhoGame"
 })
